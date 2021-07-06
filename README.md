@@ -8,6 +8,7 @@ Download GETH and Tools version 1.9.7 to create the test network on the Ethereum
 Open your terminal, and navigate into the directory where the GETH tools are stored.
 
 Create account for node3 datadir using geth command: ./geth --datadir node3 account new 
+
 Write down the password, public key, and secret key
 Node 3 password: 1234
 Public address of the key:   0xb019324C1C18576e3059Aa6466a4a17c6eD5D56F
